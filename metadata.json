@@ -16,5 +16,11 @@
         "type": "template",
         "format": "16x9",
         "style": "light"
+    },
+    "best paper lily sprite.png": {
+        "name": "Мой рисуночек",
+        "type": "photo",
+        "format": "1x1",
+        "style": "light"
     }
 }
