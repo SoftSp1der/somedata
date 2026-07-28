@@ -3,13 +3,13 @@
         "name": "Пустая презентация hello",
         "type": "presentation",
         "format": "16x9",
-        "style": "other"
+        "style": "light"
     },
     "template1.pptx": {
         "name": "Очень странная презентация",
         "type": "presentation",
         "format": "16x9",
-        "style": "light"
+        "style": "other"
     },
     "template2.pptx": {
         "name": "Опять пустая презентация",
