@@ -1,0 +1,14 @@
+{
+    "single slide presentation.pptx": {
+        "name": "Пустая презентация hello",
+        "type": "presentation",
+        "format": "16x9",
+        "style": "other"
+    },
+    "template1.pptx": {
+        "name": "Очень странная презентация",
+        "type": "presentation",
+        "format": "16x9",
+        "style": "light"
+    }
+}
