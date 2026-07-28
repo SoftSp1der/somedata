@@ -10,5 +10,11 @@
         "type": "presentation",
         "format": "16x9",
         "style": "light"
+    },
+    "template2.pptx": {
+        "name": "Опять пустая презентация",
+        "type": "template",
+        "format": "16x9",
+        "style": "light"
     }
 }
